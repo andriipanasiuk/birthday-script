@@ -18,7 +18,7 @@ public class Birthday {
             "щастя",
             "хороших людей на шляху"
     ));
-    public static final String TITLE = "Скрипт для привітання з Днем народження";
+    public static final String TITLE = "Скріпт для привітання з Днем народження";
     public static final String WHAT_IS_NAME = "Як звати людину?";
     public static final String HOW_OLD = "Скільки років виповнюється?\n -1 якщо краще про це не згадувати";
     public static final String HOW_MANY_WISHES = "Чи будемо бажати загальноприйняті людські цінності? Скільки?" +
